@@ -1,2 +1,2 @@
-# Algoritmo-liviano--mamas-vf
+# lightweight algorithm-mamas-vf
 Mamografias-preprocesamiento y detectores
